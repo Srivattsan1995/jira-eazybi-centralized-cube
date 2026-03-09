@@ -148,3 +148,8 @@ Planned improvements include:
 - Automated report templates
 - Integration with external analytics tools
 - Advanced performance optimization
+
+**Centralized EazyBI Cube MVP - Solution.pdf** - This PDF document in Git repo is classified as MVP aligning towards the solution & engineering efforts behind the Centralized EazyBI cube design.
+
+**YouTube Demo Link** - This video demonstrates the core development work in setting up the EazyBI centralized cube for Jira engineers to clone the predefined reports from the EazyBI console and use for creating complex reports based on the requirements.
+Link: https://www.youtube.com/watch?v=oAsZbMJqDXw
